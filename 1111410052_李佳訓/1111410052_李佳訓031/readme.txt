@@ -39,6 +39,10 @@ namespace _11410052_李佳訓031
                 {
                     indices.Add(i);
                 }
+                else
+                {
+                    Console.WriteLine();
+                }
             }
 
             // 輸出結果
